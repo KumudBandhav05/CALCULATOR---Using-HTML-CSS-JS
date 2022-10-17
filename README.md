@@ -11,4 +11,4 @@ This project include :
 
 4.It will not display any result in case of invalid expression. For example, 5++9 will not display anything.
 
-5.Clear screen feature to clear the display screen anytime you wan
+5.Clear screen feature to clear the display screen anytime you want.
